@@ -1,0 +1,4 @@
+rootProject.name = 'data-support'
+include 'data-support-client'
+include 'data-support-common'
+
